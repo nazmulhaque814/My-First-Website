@@ -72,3 +72,38 @@ nav li a {
     background-repeat: no-repeat;
     background-position: top left, bottom right;
 }
+.secondary-bg{
+    font-size: 18px;
+    background-color: #FFF8F3;
+}
+/* .section-title{ 
+    font-size: 30px;
+    font-weight: bold;
+} 
+.section-title{
+    align-items: center;
+    display: flex;
+} */ *
+/* main styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/* about styles */
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+} 
+.section-til{
+    font-size: 30px;
+    font-weight: bold;
+}
+.about-items{
+   display: flex;
+   justify-content: space-around; 
+}
+.item-description{
+    font-weight: bold;
+}
